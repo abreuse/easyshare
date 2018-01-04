@@ -3,11 +3,11 @@ Easyshare
 
 Simple tool to calculate your expenses between pairs.
 
-####Build app
+### Build app
 
     mvn package
 
-####How to use
+### How to use
 
 1. Name the peoples
 2. Enter the expenses
